@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNJLEdyvz38s7MboajLnLYYjPsZRGFG5UbkiJk1e40cGgDAd79SIBHj67taMSh3+59hQwvHPHQ3RBKgWtRhhBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jagdish\\source\\repos\\CovidIndiaAPI\\CovidIndiaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagdish\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

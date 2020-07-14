@@ -1,0 +1,15 @@
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\CovidIndiaAPI.exe
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\CovidIndiaAPI.deps.json
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\CovidIndiaAPI.runtimeconfig.json
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\CovidIndiaAPI.runtimeconfig.dev.json
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\CovidIndiaAPI.dll
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\CovidIndiaAPI.pdb
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.csprojAssemblyReference.cache
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.AssemblyInfoInputs.cache
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.AssemblyInfo.cs
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.dll
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.pdb
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.genruntimeconfig.cache
+C:\Users\jagdish\source\repos\CovidIndiaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.csproj.CoreCompileInputs.cache
+C:\Users\jagdish\source\repos\CovidIndiaAPI\obj\Debug\netcoreapp3.1\CovidIndiaAPI.csproj.CopyComplete
